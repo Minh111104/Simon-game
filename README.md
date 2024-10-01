@@ -7,8 +7,7 @@ This project is a web-based implementation of the classic **Simon Game**. The go
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Credits](#credits)
 
 ## Installation
 1. Clone the repository:
@@ -40,3 +39,21 @@ This project is a web-based implementation of the classic **Simon Game**. The go
         ├── green.mp3
         ├── blue.mp3
         └── yellow.mp3
+```
+
+## Features
+- Dynamic color sequences that increase in length after each successful round.
+- Audio feedback for each button click.
+- Visual feedback with animations when buttons are pressed.
+- Game-over screen when the player makes a mistake.
+- Responsive design that adjusts to different screen sizes.
+
+## Technologies Used
+- **HTML**: For the structure of the game.
+- **CSS**: For styling the game interface.
+- **JavaScript**: For game logic and interactivity.
+- **jQuery**: For handling events and animations easily.
+- **Google Fonts**: Used the "Press Start 2P" font for a retro feel.
+
+## Credits
+I learn to build this from Dr. Angela's _The Complete 2024 Web Development Bootcamp_ on Udemy.
